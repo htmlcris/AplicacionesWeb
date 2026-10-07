@@ -25,6 +25,20 @@
     color: white;
 }
 
+.seccion article{
+    background-color: #f3ebeb;
+    margin-top: 20px;
+    height: 75%;
+}
+
+.seccion2 article{
+    background-color: #f3ebeb;
+    margin-top: 20px;
+    height: 75%;
+}
+
+
+
 .seccion{
     display: flex;
     background-color: #830000;
