@@ -1,0 +1,25 @@
+.container{
+    width: 400px;
+    padding: 50px;
+    background-color: #f2f2f2;
+    margin: 40px auto;
+}
+
+/* Este media querie se activa cuando la pantalla tenga 600px o menos*/
+@media(max-width: 800px){
+    .container{
+        background-color: blue;
+    }
+}
+
+@media(max-width: 500px){
+    .container{
+        background-color: rgb(0, 255, 106);
+    }
+}
+
+@media(max-width: 300px){
+    .container{
+        background-color: rgb(255, 176, 59);
+    }
+}
