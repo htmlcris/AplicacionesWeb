@@ -29,13 +29,13 @@
     display: flex;
     background-color: #830000;
     gap: 20px;
-    padding-left: 25%;
+    padding-left: 40%;
 }
 
 .seccion2{
     display: flex;
     gap: 30px;
-    padding-left: 15%;
+    padding-left: 35%;
     background-color: #a35959;
 }
 
