@@ -43,20 +43,17 @@
     display: flex;
     background-color: #830000;
     gap: 20px;
-    padding-left: 40%;
 }
 
 .seccion2{
     display: flex;
     gap: 30px;
-    padding-left: 35%;
     background-color: #a35959;
 }
 
 .footer{
     grid-row: 5;
     background-color: #636262;
-    padding-left: 35%;
 }
 
 
