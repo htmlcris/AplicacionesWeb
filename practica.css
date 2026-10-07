@@ -56,8 +56,9 @@
 .footer{
     grid-row: 5;
     background-color: #636262;
-    padding-left: 45%;
+    padding-left: 35%;
 }
+
 
 
 @media (max-width: 500px){
